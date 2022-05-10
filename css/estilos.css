@@ -18,3 +18,15 @@ body{
 #container h1 {
     font-size: 20px;
 }
+
+.cabecera{
+    margin-left: 500px;
+    width: 40%;
+    background-color: coral;
+}
+.cabecera span{
+    padding-left: 50px;
+    font-size: 12px;
+    background-color: aquamarine;
+
+}
